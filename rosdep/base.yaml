@@ -1764,6 +1764,7 @@ hddtemp:
     bionic: [hddtemp]
     focal: [hddtemp]
     impish: [hddtemp]
+    jammy: [hddtemp]
 hdf5:
   arch: [hdf5-cpp-fortran]
   debian: [libhdf5-serial-dev]
